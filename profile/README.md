@@ -11,6 +11,7 @@ All encryption happens client-side — the server never sees plaintext data or m
 | [vault-core](https://github.com/blindkeep-vault/vault-core) | Cryptographic primitives — Argon2, ChaCha20-Poly1305, X25519, HKDF, Ed25519 |
 | [vault-cli](https://github.com/blindkeep-vault/vault-cli) | Command-line client for drops, notarization, and certificate verification |
 | [vault-wasm](https://github.com/blindkeep-vault/vault-wasm) | WebAssembly bindings for browser-side crypto |
+| [vault-python](https://github.com/blindkeep-vault/vault-python) | Python SDK — PyO3 crypto bindings and sync/async API client |
 
 ## Cryptography
 
